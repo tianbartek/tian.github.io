@@ -88,6 +88,8 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.05* Distinguished Graduation Thesis of Sichuan University 
+- *2022.06* Outstanding Graduate Student of Sichuan University 
+
+
 
