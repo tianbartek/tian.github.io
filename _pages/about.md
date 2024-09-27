@@ -42,7 +42,7 @@ My research interests include image alignment and Tiny / Low-light object detect
 
 **MingboHong**, Shen Cheng, Haibin Huang, Haoqiang Fan, Shuaicheng Liu 
 
-**Citation**<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> 
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
 
