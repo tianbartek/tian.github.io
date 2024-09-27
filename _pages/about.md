@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
+Prior to this,
+I received my Bachelor's degree from Sichuan Agricultural University in 2019.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+During the Megvii,  I was luckily mentored by [Shen Cheng](https://scholar.google.com/citations?user=gBE3HvwAAAAJ&hl=en), [Haipeng Li](https://lhaippp.github.io/), and [Nianjin Ye](https://scholar.google.com/citations?user=AhwGG78AAAAJ&hl=zh-CN).
+
+My research interests include image alignment and Tiny / Low-light object detection. I have published several papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
+- *2024.07*: 🎉 One paper is accepted by ECCV 2024
+- *2022.06*: 🎉 Graduated from Sichuan University, grateful to my advisor [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao).
+- *2022.03*: 🎉 One paper is accepted by CVPR 2022
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[You Only Look Around: Learning Illumination-Invariant Feature for Low-light Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**MingboHong**, Shen Cheng, Haibin Huang, Haoqiang Fan, Shuaicheng Liu 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Citation**<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> 
+
+[![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv_2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Neural Spectral Decomposition for Dataset Distillation](https://arxiv.org/abs/2408.16236)
+
+Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Liu
+
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> [![](https://img.shields.io/github/stars/slyang2021/NSD?style=social&label=NSD Stars)](https://github.com/slyang2021/NSD)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/HomoGAN.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised Homography Estimation with Coplanarity-Aware GAN](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)
+
+**Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Qijun Zhao, Shuaicheng Liu
+
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> [![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE GRSL 2021</div><img src='images/sspnet.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images](https://arxiv.org/abs/2107.01548)
+
+**Mingbo Hong**, Shuiwang Li, Yuchao Yang, Feiyu Zhu, Qijun Zhao, Li Lu
+
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:9yKSN-GCB0IC'></span></strong> [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=SSPNet Stars)](https://github.com/MingboHong/SSPNet)
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
