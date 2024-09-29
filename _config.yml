@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Mingbo Hong"
 description              : "CV researcher"
-repository               : "MingboHong/mingbohong.github.io"
+repository               : "mingbohong/mingbohong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
