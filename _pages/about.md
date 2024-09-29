@@ -59,7 +59,9 @@ I have published several papers at the top international AI conferences with tot
 
 Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Liu
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> [![](https://img.shields.io/github/stars/slyang2021/NSD?style=social&label=NSD Stars)](https://github.com/slyang2021/NSD)
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
+
+[![](https://img.shields.io/github/stars/slyang2021/NSD?style=social&label=NSD Stars)](https://github.com/slyang2021/NSD)
 
 </div>
 </div>
@@ -72,7 +74,9 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Qijun Zhao, Shuaicheng Liu
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> [![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
+
+[![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
 
 </div>
 </div>
@@ -84,7 +88,9 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 
 **Mingbo Hong**, Shuiwang Li, Yuchao Yang, Feiyu Zhu, Qijun Zhao, Li Lu
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:9yKSN-GCB0IC'></span></strong> [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=SSPNet Stars)](https://github.com/MingboHong/SSPNet)
+**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:9yKSN-GCB0IC'></span></strong> 
+
+[![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=SSPNet Stars)](https://github.com/MingboHong/SSPNet)
 
 </div>
 </div>
