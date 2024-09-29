@@ -85,7 +85,7 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE GRSL 2021</div><img src='images/sspnet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images** <span style="color: red;">Included in Google Scholar's H5-indexed list</span>
+**SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images** (*<span style="color: red;">Included in Google Scholar's H5-indexed list</span>*)
 
 **Mingbo Hong**, Shuiwang Li, Yuchao Yang, Feiyu Zhu, Qijun Zhao, Li Lu
 
