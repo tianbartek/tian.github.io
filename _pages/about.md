@@ -26,7 +26,7 @@ During the Megvii,  I was luckily mentored by [Shen Cheng](https://scholar.googl
 
 My research interests include image alignment and Tiny / Low-light object detection. 
 
-I have published several papers at conferences and journals, including CVPR, ECCV, NIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
+I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
 - *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
