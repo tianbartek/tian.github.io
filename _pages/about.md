@@ -41,11 +41,11 @@ I have published several papers at the top international AI conferences with tot
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[You Only Look Around: Learning Illumination-Invariant Feature for Low-light Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)
+You Only Look Around: Learning Illumination-Invariant Feature for Low-light Object Detection
 
 **MingboHong**, Shen Cheng, Haibin Huang, Haoqiang Fan, Shuaicheng Liu 
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
+[Paper](https://arxiv.org/abs/2408.16236)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
 
@@ -59,7 +59,7 @@ I have published several papers at the top international AI conferences with tot
 
 Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Liu
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
+[Paper](https://arxiv.org/abs/2408.16236)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/slyang2021/NSD?style=social&label=NSD Stars)](https://github.com/slyang2021/NSD)
 
@@ -70,11 +70,11 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/HomoGAN.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Unsupervised Homography Estimation with Coplanarity-Aware GAN](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)
+Unsupervised Homography Estimation with Coplanarity-Aware GAN
 
 **Mingbo Hong**, Yuhang Lu, Nianjin Ye, Chunyu Lin, Qijun Zhao, Shuaicheng Liu
 
-**Citation**<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:u5HHmVD_uO8C'></span></strong> 
 
 [![](https://img.shields.io/github/stars/megvii-research/HomoGAN?style=social&label=HomoGAN Stars)](https://github.com/megvii-research/HomoGAN)
 
@@ -84,11 +84,11 @@ Shaolei Yang, Shen Cheng, **Mingbo Hong**, Haoqiang Fan, Xing Wei, Shuaicheng Li
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE GRSL 2021</div><img src='images/sspnet.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images](https://arxiv.org/abs/2107.01548)
+SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images
 
 **Mingbo Hong**, Shuiwang Li, Yuchao Yang, Feiyu Zhu, Qijun Zhao, Li Lu
 
-[Citation](https://ieeexplore.ieee.org/abstract/document/9515145/)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:9yKSN-GCB0IC'></span></strong> 
+[Paper](https://arxiv.org/abs/2107.01548)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:9yKSN-GCB0IC'></span></strong> 
 
 [![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=SSPNet Stars)](https://github.com/MingboHong/SSPNet)
 
