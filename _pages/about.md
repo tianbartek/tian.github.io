@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
+I am currently a researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University in 2022, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
 Prior to this,
 I received my Bachelor's degree from Sichuan Agricultural University in 2019.
 
