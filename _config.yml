@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingbo Hong"
+title                    : "Mingbo Hong (洪铭波)"
 description              : "CV researcher"
 repository               : "MingboHong/mingbohong.github.io"
 google_scholar_stats_use_cdn : true
