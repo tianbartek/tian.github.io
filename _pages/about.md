@@ -18,6 +18,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🔥🔥🔥 I am seeking Master's and PhD students; please feel free to contact me.
+
 I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
 
@@ -93,7 +95,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 
 
-# 🔥🔥🔥 I am seeking Master's and PhD students; please feel free to contact me.
+
 
 
 # 🗺️ Visitor Map
