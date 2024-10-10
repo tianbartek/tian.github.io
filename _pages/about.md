@@ -78,6 +78,20 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">TIP 2020</div><img src='images/ICIP_2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Unsupervised Learning of Optical Flow with CNN-based Non-local Filtering**
+
+**Long Tian**, Zhigang Tu, Dejun Zhang, Jun Liu, Baoxin Li, Junsong Yuan
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9159910)
+
+
+
+</div>
+</div>
+
 
 # 🔥🔥🔥 I am seeking Master's and PhD students; please feel free to contact me.
 
