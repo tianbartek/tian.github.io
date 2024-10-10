@@ -33,7 +33,7 @@ I have published several papers at conferences and journals. My publication rece
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICPR 2024</div><img src='images/eccv_2024.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICPR 2024</div><img src='images/ICPR_2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Incremental Object 6D Pose Estimation**
@@ -47,7 +47,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/PR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Test-time Adaptation for 6D Pose Tracking**
@@ -63,7 +63,7 @@ I have published several papers at conferences and journals. My publication rece
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2022</div><img src='images/HomoGAN.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2022</div><img src='images/ICIP_2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Cluster-Based 3D Keypoint Detection for Category-Agnostic 6D Pose Tracking**
