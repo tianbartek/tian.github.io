@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang]([http://www.scubrl.org/qjzhao](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
+I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
 
 My research interests include Embodied Artificial Intelligence and Large Language Models. 
@@ -79,9 +79,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 
 
-# 🎖 Honors and Awards
-- *2022.05* Distinguished Graduation Thesis of Sichuan University 
-- *2022.06* Outstanding Graduate Student of Sichuan University 
+
 
 
 # 🗺️ Visitor Map
