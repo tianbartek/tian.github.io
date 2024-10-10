@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingbo Hong (洪铭波)"
+title                    : "Dr. Long Tian (田龙)"
 description              : "CV researcher"
 repository               : "MingboHong/mingbohong.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingbo Hong"
+  name             : "Long Tian"
   avatar           : "images/pp.png"
-  bio              : "Megvii"
+  bio              : "Southwest Jiaotong University"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6DpdNBkAAAAJ"
-  email            : "mingbohong97@gamil.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=RH7KxSkAAAAJ"
+  email            : "tianbartek@gamil.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MingboHong" 
+  github           : "Tianbartek" 
   google_plus      :
   keybase          :
   instagram        :
