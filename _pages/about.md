@@ -47,7 +47,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/PR.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/PR_2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Test-time Adaptation for 6D Pose Tracking**
