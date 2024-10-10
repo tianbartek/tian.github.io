@@ -21,7 +21,7 @@ redirect_from:
 I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
 
-My research interests include Embodied Artificial Intelligence and Large Language Models. 
+My research interests include **Embodied Artificial Intelligence** and **Large Language Models**. 
 
 I have published several papers at conferences and journals. My publication received a total <a href='https://scholar.google.com/citations?user=RH7KxSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
@@ -79,7 +79,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 
 
-
+I am seeking Master's and PhD students; please feel free to contact me.
 
 
 # 🗺️ Visitor Map
