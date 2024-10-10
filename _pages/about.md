@@ -55,6 +55,7 @@ I have published several papers at conferences and journals. My publication rece
 **Long Tian**, Changjae Oh, Andrea Cavallaro 
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001419)
+
 [Project Website](https://qm-ipalab.github.io/TA-6DT/)
 
 </div>
@@ -70,6 +71,7 @@ I have published several papers at conferences and journals. My publication rece
 **Long Tian**, Andrea Cavallaro, Changjae Oh
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/9897746)
+
 [Project Website](https://eecs.qmul.ac.uk/~coh/projects/6D_CAPT.html)
 
 
