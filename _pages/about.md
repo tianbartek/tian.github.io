@@ -31,7 +31,7 @@ I have published several papers at conferences and journals. My publication rece
 - *2024.07*: 🎉 One paper is accepted by ICPR 2024
 - *2024.02*: 🎉 One paper is accepted by PR 2024
 
-# 📝 Publications
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICPR 2024</div><img src='images/eccv_2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
