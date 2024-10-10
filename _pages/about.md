@@ -78,7 +78,7 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">TIP 2020</div><img src='images/ICIP_2022.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">TIP 2020</div><img src='images/TIP_2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Unsupervised Learning of Optical Flow with CNN-based Non-local Filtering**
