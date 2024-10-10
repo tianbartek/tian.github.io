@@ -26,8 +26,8 @@ My research interests include 6D Object Pose Estimation, Embodied Artificial Int
 I have published several papers at conferences and journals. My publication received a total <a href='https://scholar.google.com/citations?user=RH7KxSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
-- *2022.10*: 🎉 I become an assistant professor at Southwest Jiaotong University
-- *2022.08*: 🎉 Graduated from Queen Mary University of London, grateful to my supervisor [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en).
+- *2024.10*: 🎉 I become an assistant professor at Southwest Jiaotong University
+- *2024.08*: 🎉 Graduated from Queen Mary University of London, grateful to my supervisor [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en).
 - *2024.07*: 🎉 One paper is accepted by ICPR 2024
 - *2024.02*: 🎉 One paper is accepted by PR 2024
 
