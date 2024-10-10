@@ -18,21 +18,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a researcher at Megvii Technology, supervised by [Prof.Shuaicheng Liu](http://www.liushuaicheng.org/). I received my Master's degree from Sichuan University in 2022, supervised by [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao). 
-Prior to this,
-I received my Bachelor's degree from Sichuan Agricultural University in 2019.
+I am currently an assistant professor at Southwest Jiaotong University. I received my PhD degree from Queen Mary University of London supervised by [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en). I received my Master degree from Sichuan Agricultural University in 2020, supervised by [Prof.Dejun Zhang]([http://www.scubrl.org/qjzhao](https://djzgroup.github.io/)). Prior to this, I received my Bachelor's degree from Sichuan Agricultural University in 2017.
 
-During the Megvii,  I was luckily mentored by [Shen Cheng](https://scholar.google.com/citations?user=gBE3HvwAAAAJ&hl=en), [Haipeng Li](https://lhaippp.github.io/), and [Nianjin Ye](https://scholar.google.com/citations?user=AhwGG78AAAAJ&hl=zh-CN).
 
-My research interests include image alignment and Tiny / Low-light object detection. 
+My research interests include 6D Object Pose Estimation, Embodied Artificial Intelligence, and Large Language Models. 
 
-I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=6DpdNBkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
+I have published several papers at conferences and journals, including CVPR, ECCV, NeurIPS, IEEE GRSL, etc. My publication received a total <a href='https://scholar.google.com/citations?user=H7KxSkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 # 🔥 News
-- *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
-- *2024.07*: 🎉 One paper is accepted by ECCV 2024
-- *2022.06*: 🎉 Graduated from Sichuan University, grateful to my advisor [Prof.Qijun Zhao](http://www.scubrl.org/qjzhao).
-- *2022.03*: 🎉 One paper is accepted by CVPR 2022
+- *2022.10*: 🎉 I become an assistant professor at Southwest Jiaotong University
+- *2022.08*: 🎉 Graduated from Queen Mary University of London, grateful to my supervisor [Dr.Changjae Oh](https://eecs.qmul.ac.uk/~coh/) and [Prof.Andrea Cavallaro](https://people.epfl.ch/andrea.cavallaro?lang=en).
+- *2024.07*: 🎉 One paper is accepted by ICPR 2024
+- *2024.02*: 🎉 One paper is accepted by PR 2024
 
 # 📝 Publications
 
