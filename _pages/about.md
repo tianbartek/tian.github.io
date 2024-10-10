@@ -54,7 +54,7 @@ I have published several papers at conferences and journals. My publication rece
 
 **Long Tian**, Changjae Oh, Andrea Cavallaro 
 
-[Paper]([https://arxiv.org/abs/2408.16236](https://www.sciencedirect.com/science/article/pii/S0031320324001419)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001419)
 [Project Website](https://qm-ipalab.github.io/TA-6DT/)
 
 </div>
