@@ -34,16 +34,16 @@ I have published several papers at conferences and journals. My publication rece
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/yola.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**You Only Look Around: Learning Illumination-Invariant Feature for Low-light Object Detection**
+**Test-time Adaptation for 6D Pose Tracking**
 
-**MingboHong**, Shen Cheng, Haibin Huang, Haoqiang Fan, Shuaicheng Liu 
+**Long Tian**, Changjae Oh, Andrea Cavallaro 
 
-[Paper](https://arxiv.org/abs/2408.16236)<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
+[Paper]([https://arxiv.org/abs/2408.16236](https://pdf.sciencedirectassets.com/272206/1-s2.0-S0031320324X00047/1-s2.0-S0031320324001419/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBYaCXVzLWVhc3QtMSJGMEQCIA77KcPdUju9utbMz1RvsYMPK4mPJ66bodVX9CWniIo7AiB36kPlb4QDKWianKlBMxAlRTpHUL5Tlt%2BjPMaSCY1MPyqzBQhuEAUaDDA1OTAwMzU0Njg2NSIMyNwpvlWUK9M5UMG6KpAFl6yJkOoAwKvZcjZiByarCSGwmA7HN%2FLCKLKr9y5gSltDAxacdcT536PT6ARxK3FG%2Btf2crktEUOdchSvz8Z2bJP6zSB19sVriLZSb2kUo63qt5vXM%2FbdD5cxw5x%2FQzdTkuM32qhvDPo82NHvfuRm8HQU%2FvhdBDXWN1OW5fFpibKsv4dkC%2BpNwyrX1F9XgHbiDfaWN9JEvD9G3XV%2FXdCBOb32b5eB91%2FSuExQkW4bkLBF%2B%2BfJGNHs%2F1MV3JlbjK4bHUBzI8YNVraRwf4EzhSNe3IF9HhmqNsoRwU%2BhpSB14D2Q7a70gc3CkjGlUlG6y0MrIX5l%2Fm1VGEAmoVwbdF8SUZpWg5J2Maxz%2BYowLLMIfPAD4Jtcz3fDjX28qvWOqvV78OsrTrSYITjCfQ%2BYUlAk1iwgatKQw6s%2FuOdTFzJDzqfCUY0YxTsqyEBaj1z%2F54n7d3cd1Mr3kBoQxawYtqhUf1ztJxHMtnwxo5CssICXG8JRXr7vyfLIyzrMvgK5zobVsLDMZPi3Nja%2Bma%2FOWj6uL6KvkYyLqut567eTHbpHNw184aUjDvbgLKH%2BqRkqgRKbU%2BTsBcL6qlShEQCAXyAuU85sppsvR5pKvQvYDhFoDGczqSYVtbpyagLzE%2FHksqoIRMZKJI59h7dUU9K9BSt19nEeo2hQWyuWgZPMbioxKrxeQs%2FNEY05ebgOMtWpu6TkykcY77Gs9kxk4gC7VqSlBSqzDlPiI5mzr4CzPHWVMrJCFhs6%2BQh8S2WoDVpPUlMyNvPzVxxC39C%2BMi1TAUstKvRSW8tVbDvWoC0dAaiv5Pi5OMhgurviKFKs8zYiXqhcBf2ovaqjtvlJ7%2Bf0fcJcfO91SkXBgKGFcYQyxQPBRYw2sCduAY6sgGfyvlnZCjMwI34wQOK0q86%2B04M7X6Fi%2BGoAFqCugo7CYDuJg3k%2FwEOLDGSulM9l%2FIbTf28JpRkQMwAXRLhsRbqArliwwfqFyIrjvWHwVhlP4WfUOR81qL%2Fx2ddWvSSMPxOAS3vTJ4DQyax7PeLXhcrGX7VPJ4u8I6ZE%2F7UOC6vDT%2B3RcNvuPuxaPhjtwLsO7vYNiQVIRIfZUlQXRYjDSNBUhLTTEjmsfnNDCwfxXQDzY0z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241010T062725Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4PCPDUEC%2F20241010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e85d43a859c612105a723922174fbe91fa80ee0911d1b273bf444b42ebe572af&hash=d68b6e2304d2087cb7a31a263f9d26144f9a8841880c6d370aaa76b2d6f66cd5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0031320324001419&tid=spdf-2e903cca-61ff-4e07-a9ca-61ec8aaabb26&sid=cc76bf16296857410049af85239d505a7274gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1016570657525607595f53&rr=8d048b601b848a6c&cc=jp))<strong><span class='show_paper_citations' data='6DpdNBkAAAAJ:IjCSPb-OGe4C'></span></strong> 
 
-[![](https://img.shields.io/github/stars/MingboHong/SSPNet?style=social&label=YOLA Stars)](https://github.com/MingboHong/SSPNet)
+[Project](https://qm-ipalab.github.io/TA-6DT/)
 
 </div>
 </div>
