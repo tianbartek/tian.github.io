@@ -49,7 +49,7 @@ Paper: coming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/PR_2024.png' alt="sym" width="70%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"> Pattern Recognition 2024</div><img src='images/PR_2024.png' alt="sym" width="100%" hight="70%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Test-time Adaptation for 6D Pose Tracking**
