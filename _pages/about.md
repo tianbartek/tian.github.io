@@ -42,7 +42,7 @@ I have published several papers at conferences and journals. My publication rece
 
 **Long Tian**, Amelia Sorrenti, Yik Lung Pang, Giovanni Bellitto, Simone Palazzo, Concetto Spampinato, and Changjae Oh
 
-Paper coming soon
+Paper: coming soon
 
 [Project Website](https://qm-ipalab.github.io/ILPose/)
 
