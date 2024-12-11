@@ -33,6 +33,8 @@ I have published several papers at conferences and journals. My publication rece
 - *2024.07*: 🎉 One paper is accepted by ICPR 2024
 - *2024.02*: 🎉 One paper is accepted by PR 2024
 
+
+<span class='anchor' id='Selected-Publications'></span>
 # 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICPR 2024</div><img src='images/ICPR_2024.png' alt="sym" width="100%"></div>
@@ -94,9 +96,10 @@ I have published several papers at conferences and journals. My publication rece
 </div>
 </div>
 
+<span class='anchor' id='Master-Students'></span>
 # Master Students
-- Dongyang Wang（王东阳）, working on robotic grasping 
-- Jiaxin Yang （杨佳欣）, working on continual learning  
+- **Dongyang Wang**（王东阳）, working on robotic grasping 
+- **Jiaxin Yang** （杨佳欣）, working on continual learning  
 
 
 
