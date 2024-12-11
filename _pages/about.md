@@ -42,7 +42,7 @@ I have published several papers at conferences and journals. My publication rece
 
 **Long Tian**, Amelia Sorrenti, Yik Lung Pang, Giovanni Bellitto, Simone Palazzo, Concetto Spampinato, and Changjae Oh
 
-Paper: coming soon
+[Paper](https://link.springer.com/chapter/10.1007/978-3-031-78395-1_22) 
 
 [Project Website](https://qm-ipalab.github.io/ILPose/)
 
@@ -94,7 +94,9 @@ Paper: coming soon
 </div>
 </div>
 
-
+# Master Students
+- Dongyang Wang（王东阳）, working on robotic grasping 
+- Jiaxin Yang （杨佳欣）, working on continual learning  
 
 
 
