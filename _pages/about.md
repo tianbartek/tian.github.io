@@ -100,7 +100,8 @@ I have published several papers at conferences and journals. My publication rece
 # Master Students
 - **Dongyang Wang**（王东阳）, working on robotic grasping 
 - **Jiaxin Yang** （杨佳欣）, working on continual learning  
-
+# PhD Students
+- **Yixin Liu** (刘奕忻)， working on robot perception (co-supervised with Deshuang Huang)
 
 
 # 🗺️ Visitor Map
