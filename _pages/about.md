@@ -100,7 +100,7 @@ I have published several papers at conferences and journals. My publication rece
 # Master Students
 - **Dongyang Wang**（王东阳）, working on robotic grasping (co-supervised with Prof.Tianrui Li)
 - **Jiaxin Yang** （杨佳欣）, working on continual learning (co-supervised with Prof.Tianrui Li)
-- ** Yang Liu** (刘洋)， working on Multimodal Large Models (co-supervised with Prof.Fengmao Lv)
+- **Yang Liu** (刘洋)， working on Multimodal Large Models (co-supervised with Prof.Fengmao Lv)
 
 # PhD Students
 - **Yixin Liu** (刘奕忻)， working on robot perception (co-supervised with Prof.Deshuang Huang)
